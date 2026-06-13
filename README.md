@@ -13,7 +13,7 @@ pipelines, and solving real-world cloud challenges.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## What I'm Working On
+<!--## What I'm Working On
 
 - 🏗️ Building AWS infrastructure with Terraform
 - 🐳 Containerizing applications with Docker & Kubernetes
@@ -34,7 +34,7 @@ pipelines, and solving real-world cloud challenges.
 
 ![Oneil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ONEIL6677&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ONEIL6677&layout=compact&theme=dark&hide_border=true)
-
+-->
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oneil-kimbi/)
