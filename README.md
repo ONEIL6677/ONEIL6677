@@ -1,4 +1,4 @@
-# Hi, I'm Oneil Kimbi
+# Hi, I'm ONEIL KIMBI
  DevOps Engineer passionate about automating infrastructure, building reliable
 pipelines, and solving real-world cloud challenges.
 
