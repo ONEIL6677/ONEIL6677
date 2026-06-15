@@ -1,4 +1,4 @@
-# Hi, I'm Oneil Kimbi 👋
+# Hi, I'm ONEIL KIMBI 👋
 
 🚀 DevOps Engineer passionate about automating infrastructure, building secure
 CI/CD pipelines, and exploring how AI and security are reshaping modern operations
@@ -112,5 +112,5 @@ reactive to proactive operations. Areas I'm exploring include:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oneil-kimbi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oneilkimbi1@gmail.com)
