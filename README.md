@@ -2,7 +2,6 @@
 ## DevOps · DevSecOps · AIOps Engineer
 I build and operate production-grade infrastructure automating pipelines, enforcing security at every layer of the delivery cycle, and applying AI-driven intelligence to keep systems observable, resilient, and self-healing.
 My work sits at the intersection of three disciplines: DevOps for scalable, automated infrastructure and continuous delivery; DevSecOps for shifting security left integrating it into CI/CD, not bolting it on after; and AIOps for leveraging machine learning and data to reduce operational toil and surface insights before they become incidents.
-
 ## My Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -92,7 +91,6 @@ reactive to proactive operations. Areas I'm exploring include:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ONEIL6677&theme=dark&hide_border=true)
 
 --- -->
-
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oneil-kimbi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oneilkimbi1@gmail.com)
