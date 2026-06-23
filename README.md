@@ -1,7 +1,7 @@
 # Hi, I'm ONEIL KIMBI
-DevOps Engineer passionate about automating infrastructure, building secure
-CI/CD pipelines, and exploring how AI and security are reshaping modern operations
-through **DevSecOps** and **AIOps** practices.
+## DevOps · DevSecOps · AIOps Engineer
+I build and operate production-grade infrastructure — automating pipelines, enforcing security at every layer of the delivery cycle, and applying AI-driven intelligence to keep systems observable, resilient, and self-healing.
+My work sits at the intersection of three disciplines: DevOps for scalable, automated infrastructure and continuous delivery; DevSecOps for shifting security left — integrating it into CI/CD, not bolting it on after; and AIOps for leveraging machine learning and data to reduce operational toil and surface insights before they become incidents.
 
 ## My Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
