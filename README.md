@@ -2,8 +2,7 @@
 DevOps Engineer passionate about automating infrastructure, building secure
 CI/CD pipelines, and exploring how AI and security are reshaping modern operations
 through **DevSecOps** and **AIOps** practices.
-
-## 🛠️ Tech Stack
+## Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -24,10 +23,8 @@ through **DevSecOps** and **AIOps** practices.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ---
-
-## 🔭 What I'm Working On
+## What I'm Working On
 
 - 🏗️ Provisioning multi-cloud infrastructure with Terraform across AWS & Azure
 - ⚙️ Configuring servers and automating deployments with Ansible playbooks
@@ -40,7 +37,7 @@ through **DevSecOps** and **AIOps** practices.
 
 ---
 
-## 🔐 DevSecOps Focus
+## DevSecOps Focus
 
 Security isn't an afterthought — it's part of the pipeline. My DevSecOps practice
 includes:
@@ -53,7 +50,7 @@ includes:
 
 ---
 
-## 🤖 AIOps Interests
+## AIOps Interests
 
 AIOps applies AI and machine learning to IT operations, helping teams move from
 reactive to proactive operations. Areas I'm exploring include:
@@ -66,7 +63,7 @@ reactive to proactive operations. Areas I'm exploring include:
 
 ---
 
-<!-- ## 📂 Featured Repositories
+<!-- ## Featured Repositories
 
 | Repository | Description |
 |---|---|
@@ -85,7 +82,7 @@ reactive to proactive operations. Areas I'm exploring include:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Oneil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ONEIL6677&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ONEIL6677&layout=compact&theme=dark&hide_border=true)
@@ -93,7 +90,6 @@ reactive to proactive operations. Areas I'm exploring include:
 
 --- -->
 
-## 📫 Connect With Me
-
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oneil-kimbi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oneilkimbi1@gmail.com)
